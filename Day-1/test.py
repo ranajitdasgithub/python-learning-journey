@@ -1,1 +1,4 @@
-from math import radians
+print("hello world")
+
+x=10
+print(x)
