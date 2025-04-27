@@ -1,5 +1,7 @@
 # python-learning-journey
 
+# Course link - https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
+
 1. install python
 2. python --version
 3. From terminal
