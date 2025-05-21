@@ -23,3 +23,5 @@ python manage.py runserver
 
 
 python manage.py startapp pages
+
+pip freeze > requirements.txt  # To add the dependency with the version in the requirement.txt
